@@ -45,7 +45,7 @@ def main():
     Int.message_content = True
     client=discord.Client(intents=Int)
     # Number Bot Token
-    #TOKEN='MTE5NzkyNDI0MTI3MDY0NTAxOA.GUcQSJ.uQYKwiD3cX_bpyxII-LAVLBYrpYHhUH7z5MKqk'
+    #TOKEN='KJASHDKJHA'
 
     @client.event
     async def on_ready():
